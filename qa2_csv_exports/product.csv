@@ -1,0 +1,9 @@
+PRODUCT_ID,PRODUCT_NAME,PRODUCT_CATEGORY,PRODUCT_DESCRIPTION,PRICE,CURRENCY,STOCK_QUANTITY,SUPPLIER_NAME,SUPPLIER_CONTACT,COUNTRY_OF_ORIGIN,ETL_RECORD_DELETED,ETL_RECORD_PROCESS_TIME,ETL_RECORD_CAPTURE_TIME,ETL_RECORD_STATUS_CD
+101,iPhone 15,Electronics,Apple smartphone with A16 Bionic chip,1099.00,USD,250,Apple Inc.,support@apple.com,USA,False,2025-11-16 04:54:10.718000-08:00,2025-11-16 04:54:10.718000-08:00,A
+102,Samsung 4K TV,Electronics,55-inch Ultra HD Smart LED TV,650.00,USD,120,Samsung Electronics,support@samsung.com,South Korea,False,2025-11-16 04:54:10.718000-08:00,2025-11-16 04:54:10.718000-08:00,A
+103,Nike Air Max,Footwear,Lightweight running shoes,140.00,USD,500,Nike,support@nike.com,Vietnam,False,2025-11-16 04:54:10.718000-08:00,2025-11-16 04:54:10.718000-08:00,A
+104,Dell XPS 13,Computers,Compact ultrabook laptop,1450.00,USD,80,Dell Technologies,support@dell.com,China,False,2025-11-16 04:54:10.718000-08:00,2025-11-16 04:54:10.718000-08:00,A
+105,Sony WH-1000XM5,Accessories,Noise-cancelling wireless headphones,399.00,USD,300,Sony Corporation,support@sony.com,Japan,False,2025-11-16 04:54:10.718000-08:00,2025-11-16 04:54:10.718000-08:00,A
+203,JBL Charge 5,Audio,Portable Bluetooth speaker,150.00,USD,300,JBL,support@jbl.com,Vietnam,True,2025-11-16 04:54:10.718000-08:00,2025-11-16 04:54:10.718000-08:00,D
+201,Google Pixel 8,Electronics,Android smartphone from Google,799.00,USD,250,Google LLC,support@google.com,USA,False,2025-11-16 04:54:10.718000-08:00,2025-11-16 04:54:10.718000-08:00,A
+202,HP Envy Laptop,Computers,Lightweight HP laptop with Intel CPU,950.00,USD,500,HP Inc.,support@hp.com,China,False,2025-11-16 04:54:10.718000-08:00,2025-11-16 04:54:10.718000-08:00,A
