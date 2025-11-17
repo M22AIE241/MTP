@@ -1,0 +1,15 @@
+CUSTOMER_ID,CITY,ADDRESS,COUNTRY,EMAIL,ETL_RECORD_DELETED,FIRST_NAME,LAST_NAME,PHONE_NUMBER,POSTAL_CODE,STATE,ETL_RECORD_PROCESS_TIME,ETL_RECORD_CAPTURE_TIME,ETL_RECORD_STATUS_CD
+103,Shanghai,88 Nanjing Road,China,wei.chen@example.com,True,Wei,Chen,+86-555-443322,200000,Shanghai,2025-11-16 04:53:54.231000-08:00,2025-11-16 04:53:54.231000-08:00,D
+102,San Jose,77 Castro St,USA,laura.smith@example.com,False,Laura,Smith,+1-408-555-1100,94114,California,2025-11-16 04:53:54.231000-08:00,2025-11-16 04:53:54.231000-08:00,A
+101,Bengaluru,12 Residency Road,India,ravi.kumar@example.com,False,Ravi,Kumar,+91-9998887771,560025,Karnataka,2025-11-16 04:53:54.231000-08:00,2025-11-16 04:53:54.231000-08:00,A
+7,Mumbai,12 Marine Drive,India,priya.nair@example.com,False,Priya,Nair,+91-9123456780,400020,Maharashtra,2025-11-16 04:53:54.231000-08:00,2025-11-16 04:53:54.231000-08:00,A
+8,Barcelona,89 La Rambla,Spain,carlos.diaz@example.com,False,Carlos,Diaz,+34-600-123-456,08002,Catalonia,2025-11-16 04:53:54.231000-08:00,2025-11-16 04:53:54.231000-08:00,A
+6,Los Angeles,100 Sunset Blvd,USA,liam.anderson@example.com,False,Liam,Anderson,+1-310-555-2211,90001,California,2025-11-16 04:53:54.231000-08:00,2025-11-16 04:53:54.231000-08:00,A
+1,Bengaluru,456 New MG Road,India,amit.sharma@example.com,True,Amit,Sharma,+91-7000000001,560001,Karnataka,2025-11-16 04:53:54.231000-08:00,2025-11-16 04:53:54.231000-08:00,D
+2,Chicago,456 New MG Road,USA,emily.new@example.com,True,Emily,Clark,+91-7000000001,62704,Illinois,2025-11-16 04:53:54.231000-08:00,2025-11-16 04:53:54.231000-08:00,D
+3,Kolkata,22 Park Street,India,raj.verma@example.com,False,Raj,Verma,+91-9988776655,700016,West Bengal,2025-11-16 04:53:54.231000-08:00,2025-11-16 04:53:54.231000-08:00,A
+4,London,18 Queen’s Way,UK,sophia.miller@example.com,False,Sophia,Miller,+44-7700-900123,SW1A 1AA,London,2025-11-16 04:53:54.231000-08:00,2025-11-16 04:53:54.231000-08:00,A
+5,Tokyo,5 Chome-2-1 Ginza,Japan,kenji.tanaka@example.com,False,Kenji,Tanaka,+81-90-1234-5678,104-0061,Tokyo,2025-11-16 04:53:54.231000-08:00,2025-11-16 04:53:54.231000-08:00,A
+201,Secunderabad,12 Jubilee Hills,India,arjun.reddy@example.com,False,Arjun,Reddy,+91-9000000099,500033,Telangana,,,
+202,Madrid,45 Plaza Mayor,Spain,maria.gomez@example.com,False,Maria,Gomez,+34-6000004321,28013,Madrid,,,
+203,Los Angeles,99 Sunset Blvd,USA,david.lee@example.com,True,David,Lee,+1-213-555-1212,90001,California,,,

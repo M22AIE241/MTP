@@ -1,0 +1,17 @@
+Hybrid_RAG/
+│
+├── csv_loader.py
+├── csv_maker.py
+├── doc_builder.py
+├── get_embeddings.py
+├── index_to_chroma.py
+├── vectorize.py
+├── hybrid_agent.py        <-- MAIN Hybrid RAG + SQL Agent
+│
+├── qa2_csv_exports/       <-- CSV input data
+│   ├── customer.csv
+│   ├── order_items.csv
+│   ├── orders.csv
+│   └── product.csv
+│
+├── vectordb/              <-- Persistent ChromaDB
